@@ -1,0 +1,39 @@
+body {
+    font-family: 'Mohave', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.header-nav {
+    background-color: green;
+    text-align: center;
+    border: 1px solid black
+}
+
+.header-nav a {
+    color: honeydew;
+}
+table, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    width: 500px;
+}
+
+tr td:nth-child(2) {
+    text-align: center;
+}
+
+img {
+    width: 500px;
+}
+
+.description {
+    text-align: justify;
+}
+
+footer {
+    text-align: center;
+}
