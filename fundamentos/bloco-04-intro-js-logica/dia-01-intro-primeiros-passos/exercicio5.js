@@ -9,5 +9,5 @@ if (angle1 > 0 && angle2 > 0 && angle3 > 0) {
         console.log("false")
     }
 } else {
-    console.log("erro")
+    console.log("error")
 }
