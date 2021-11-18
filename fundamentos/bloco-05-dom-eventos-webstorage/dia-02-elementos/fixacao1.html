@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main id="paiDoPai">
+        <section id="pai">
+          <section id="primeiroFilho">PF</section>
+          <section id="elementoOndeVoceEsta">
+            <section id="primeiroFilhoDoFilho"></section>
+            <section id="segundoEUltimoFilhoDoFilho">SEUFDF</section>
+          </section>
+          Atenção!
+          <section id="terceiroFilho">TF</section>
+          <section id="quartoEUltimoFilho">QEUF</section>
+        </section>
+    </main>
+
+    <script>
+        let elemOndeVcEsta = document.getElementById("elementoOndeVoceEsta");
+
+        let elemPai = elemOndeVcEsta.parentElement;
+        elemPai.style.color = "blue";
+
+        let elemPrimFilhoDoFilho = document.getElementById("primeiroFilhoDoFilho");
+        elemPrimFilhoDoFilho.innerText = "Texto";
+
+        let primFilhoPartindoDePai = elemPai.firstElementChild;
+
+        let primFilhoPartindoDeElemOndeVcEsta = elemOndeVcEsta.previousElementSibling;
+
+        let atencaoPartindoDeElemOndeVcEsta = elemOndeVcEsta.nextSibling;
+
+        let terFilhoPartindoDeElemOndeVcEsta = elemOndeVcEsta.nextElementSibling;
+        
+        let terFilhoPartindoDePai = elemPai.lastElementChild.previousElementSibling;
+
+        let irmao = document.createElement("section");
+        irmao.innerText = "Irmão de elementoOndeVoceEsta";
+        elemPai.appendChild(irmao);
+
+        let filho = document.createElement("section");
+        filho.innerText = "Filho de elementoOndeVoceEsta";
+        elemOndeVcEsta.appendChild(filho);
+
+        let filho2 = document.createElement("section");
+        filho2.innerText = "Filho do primeiroFilhoDoFilho";
+        elemPrimFilhoDoFilho.appendChild(filho2);
+
+        let terFilhoPartindoDeFilho2 = filho2.parentNode.parentNode.nextElementSibling;
+
+        elemPai.removeChild(primFilhoPartindoDePai);
+
+        elemOndeVcEsta.removeChild(elemPrimFilhoDoFilho.nextElementSibling);
+
+        elemPai.removeChild(terFilhoPartindoDePai);
+
+        elemPai.removeChild(irmao.previousElementSibling);
+
+        elemPai.removeChild(irmao);
+    </script>
+</body>
+</html>
