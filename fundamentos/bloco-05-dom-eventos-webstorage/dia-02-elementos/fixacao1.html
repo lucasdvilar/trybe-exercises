@@ -38,6 +38,20 @@
         let terFilhoPartindoDeElemOndeVcEsta = elemOndeVcEsta.nextElementSibling;
         
         let terFilhoPartindoDePai = elemPai.lastElementChild.previousElementSibling;
+
+        let irmao = document.createElement("section");
+        irmao.innerText = "Irmão de elementoOndeVoceEsta";
+        elemPai.appendChild(irmao);
+
+        let filho = document.createElement("section");
+        filho.innerText = "Filho de elementoOndeVoceEsta";
+        elemOndeVcEsta.appendChild(filho);
+
+        let filho2 = document.createElement("section");
+        filho2.innerText = "Filho do primeiroFilhoDoFilho";
+        elemPrimFilhoDoFilho.appendChild(filho2);
+
+        let terFilhoPartindoDeFilho2 = filho2.parentNode.parentNode.nextElementSibling;
     </script>
 </body>
 </html>
