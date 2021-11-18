@@ -9,14 +9,14 @@
 <body>
     <main id="paiDoPai">
         <section id="pai">
-          <section id="primeiroFilho"></section>
+          <section id="primeiroFilho">PF</section>
           <section id="elementoOndeVoceEsta">
             <section id="primeiroFilhoDoFilho"></section>
-            <section id="segundoEUltimoFilhoDoFilho"></section>
+            <section id="segundoEUltimoFilhoDoFilho">SEUFDF</section>
           </section>
           Atenção!
-          <section id="terceiroFilho"></section>
-          <section id="quartoEUltimoFilho"></section>
+          <section id="terceiroFilho">TF</section>
+          <section id="quartoEUltimoFilho">QEUF</section>
         </section>
     </main>
 
@@ -52,6 +52,16 @@
         elemPrimFilhoDoFilho.appendChild(filho2);
 
         let terFilhoPartindoDeFilho2 = filho2.parentNode.parentNode.nextElementSibling;
+
+        elemPai.removeChild(primFilhoPartindoDePai);
+
+        elemOndeVcEsta.removeChild(elemPrimFilhoDoFilho.nextElementSibling);
+
+        elemPai.removeChild(terFilhoPartindoDePai);
+
+        elemPai.removeChild(irmao.previousElementSibling);
+
+        elemPai.removeChild(irmao);
     </script>
 </body>
 </html>
