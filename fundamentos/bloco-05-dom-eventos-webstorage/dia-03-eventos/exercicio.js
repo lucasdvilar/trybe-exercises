@@ -197,6 +197,6 @@ function addAppointments() {
       };
     };
   });
-}; //dúvida - keypress e keyup
+}; //dúvidas - keypress e keyup; é possível adicionar dois tipos de evento num mesmo escutador?
 
 addAppointments();
