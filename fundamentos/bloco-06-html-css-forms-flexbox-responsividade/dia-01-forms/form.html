@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exercício</title>
+</head>
+<body>
+  <form action="">
+    <fieldset>
+      <label for="name">Nome
+        <input type="text" maxlength="40" required id="name">
+      </label>
+      <label for="email">Email
+        <input type="text" maxlength="50" required id="email">
+      </label>
+      <label for="cpf">CPF
+        <input type="text" maxlength="11" required id="cpf">
+      </label>
+      <label for="end">Endereço
+        <input type="text" maxlength="200" required id="end">
+      </label>
+      <label for="city">Cidade
+        <input type="text" maxlength="28" required id="city">
+      </label>Estado
+      <label for="">
+        <select id="states" required></select>
+      </label>
+      <label for="house">Casa
+        <input type="radio" name="type" id="house">
+      </label>
+      <label for="ap">Apartamento
+        <input type="radio" name="type" id="ap">
+      </label>
+    </fieldset>
+
+    <fieldset>
+      <label for="cv">Resumo do currículo
+        <textarea name="" id="cv" cols="30" rows="10" maxlength="1000" required></textarea>
+      </label>
+      <label for="position">Cargo
+        <input type="text" maxlength="40" required id="position">
+      </label>
+      <label for="description">Descrição do cargo
+        <input type="text" maxlength="500" required id="description">
+      </label>
+      <label for="startDate">Data de início
+        <input type="text" placeholder="dd/mm/aaaa" required id="startDate">
+      </label>
+    </fieldset>
+    <button type="submit" id="submit">Enviar</button>
+    <button type="reset">Limpar</button>
+  </form>
+  <script src="form.js"></script>
+</body>
+</html>
