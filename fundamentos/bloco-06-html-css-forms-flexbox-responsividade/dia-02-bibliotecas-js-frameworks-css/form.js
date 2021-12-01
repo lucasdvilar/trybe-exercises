@@ -37,7 +37,7 @@ function checkStartDate() {
     }
   }; */
 
-  document.getElementById('startDate').DatePickerX.init();
+  document.getElementById('startDate').DatePickerX.init({format: 'dd/mm/yyyy'});
 
 };
 
