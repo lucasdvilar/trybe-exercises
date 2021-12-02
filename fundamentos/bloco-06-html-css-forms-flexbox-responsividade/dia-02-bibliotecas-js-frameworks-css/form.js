@@ -43,8 +43,49 @@ function checkStartDate() {
 
 checkStartDate();
 
-function preventDefault(event) {
+/* function preventDefault(event) {
   event.preventDefault();
 };
 
-submitButton.addEventListener("click", preventDefault);
+submitButton.addEventListener("click", preventDefault); */
+
+new window.JustValidate('.js-form', {
+  rules: {
+    name: {
+      required: true,
+      maxLength: 40
+    },
+    email: {
+      required: true,
+      maxLength: 50
+    },
+    cpf: {
+      required: true,
+      maxLength: 11
+    },
+    address: {
+      required: true,
+      maxLength: 200
+    },
+    city: {
+      required: true,
+      maxLength: 28
+    },
+    resume: {
+      required: true,
+      maxLength: 400
+    },
+    position: {
+      required: true,
+      maxLength: 40
+    },
+    des: {
+      required: true,
+      maxLength: 500
+    },
+    date: {
+      required: true
+    }
+  }
+});
+
