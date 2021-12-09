@@ -6,12 +6,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
-##### Bloco 1: Introdução - Unix & Shell
+##### Bloco 1: Introdução - Unix & Bash
 
 - [X] 1-3: _Unix & Shell - Parte 1_
 - [X] 1-4: _Unix & Shell - Parte 2_
 
-##### Bloco 2: Git & GitHub
+##### Bloco 2: Git, GitHub e Internet
 
 - [X] 2-1: _O que são e para que serve?_
 - [X] 2-2: _Entendendo os comandos_
@@ -33,7 +33,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 4-4: _JavaScript - Objetos e funções_
 - [X] 4-5: _[Projeto - Playground Functions]()_
 
-##### Bloco 5: Introdução - JavaScript - Projetos
+##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
 
 - [X] 5-1: _JavaScript - DOM e seletores_
 - [X] 5-2: _JavaScript - Trabalhando com elementos_
@@ -57,8 +57,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 7: JavaScript ES6 & Testes Unitários
 
 - [X] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [X] 7-2: _JavaScript ES6 - Objects_
-- [ ] 7-3: _Testes unitários em JavaScript_
+- [X] 7-2: _JavaScript ES6 - Fluxo de exceção e objetos_
+- [ ] 7-3: _Primeiros passos em Jest_
 - [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
 
 ##### Bloco 8: JavaScript ES6
