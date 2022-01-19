@@ -1,6 +1,6 @@
 [submodule "fundamentos/bloco-06-html-css-forms-flexbox-responsividade/dia-03-flexbox-1/exercise-tech-gallery"]
 	path = fundamentos/bloco-06-html-css-forms-flexbox-responsividade/dia-03-flexbox-1/exercise-tech-gallery
 	url = https://github.com/lucasdvilar/exercise-tech-gallery
-[submodule "fundamentos/bloco-09-js-e-testes-assincronos/dia-03-jest-testes-assincronos/undamentos/bloco-09-js-e-testes-assincronos/dia-03-jest-testes-assincronos/9.3-content-async-test"]
-	path = fundamentos/bloco-09-js-e-testes-assincronos/dia-03-jest-testes-assincronos/undamentos/bloco-09-js-e-testes-assincronos/dia-03-jest-testes-assincronos/9.3-content-async-test
+[submodule "fundamentos/bloco-09-js-e-testes-assincronos/dia-03-jest-testes-assincronos/9.3-content-async-test"]
+	path = fundamentos/bloco-09-js-e-testes-assincronos/dia-03-jest-testes-assincronos/9.3-content-async-test
 	url = https://github.com/lucasdvilar/9.3-content-async-test
