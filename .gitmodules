@@ -10,3 +10,6 @@
 [submodule "front-end/bloco-11-componentes-com-estado-eventos-e-formularios-com-react/dia-01-componentes-com-estado-e-eventos/exercise-pokedex-state"]
 	path = front-end/bloco-11-componentes-com-estado-eventos-e-formularios-com-react/dia-01-componentes-com-estado-e-eventos/exercise-pokedex-state
 	url = git@github.com:lucasdvilar/exercise-pokedex-state.git
+[submodule "front-end/bloco-12-ciclo-de-vida-e-react-router/dia-01-ciclo-de-vida-de-componentes/front-end/bloco-12-ciclo-de-vida-e-react-router/dia-01-ciclo-de-vida-de-componentes/exercises-lifecycle-step-by-step"]
+	path = front-end/bloco-12-ciclo-de-vida-e-react-router/dia-01-ciclo-de-vida-de-componentes/front-end/bloco-12-ciclo-de-vida-e-react-router/dia-01-ciclo-de-vida-de-componentes/exercises-lifecycle-step-by-step
+	url = git@github.com:lucasdvilar/exercises-lifecycle-step-by-step.git
