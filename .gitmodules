@@ -13,6 +13,6 @@
 [submodule "front-end/bloco-12-ciclo-de-vida-e-react-router/dia-01-ciclo-de-vida-de-componentes/exercises-lifecycle-step-by-step"]
 	path = front-end/bloco-12-ciclo-de-vida-e-react-router/dia-01-ciclo-de-vida-de-componentes/exercises-lifecycle-step-by-step
 	url = git@github.com:lucasdvilar/exercises-lifecycle-step-by-step.git
-[submodule "front-end/bloco-12-ciclo-de-vida-e-react-router/dia-01-ciclo-de-vida-de-componentes/front-end/bloco-12-ciclo-de-vida-e-react-router/dia-01-ciclo-de-vida-de-componentes/exercise-dog-image"]
-	path = front-end/bloco-12-ciclo-de-vida-e-react-router/dia-01-ciclo-de-vida-de-componentes/front-end/bloco-12-ciclo-de-vida-e-react-router/dia-01-ciclo-de-vida-de-componentes/exercise-dog-image
+[submodule "front-end/bloco-12-ciclo-de-vida-e-react-router/dia-01-ciclo-de-vida-de-componentes/exercise-dog-image"]
+	path = front-end/bloco-12-ciclo-de-vida-e-react-router/dia-01-ciclo-de-vida-de-componentes/exercise-dog-image
 	url = git@github.com:lucasdvilar/exercise-dog-image.git
