@@ -18,4 +18,4 @@
 	url = git@github.com:lucasdvilar/exercise-dog-image.git
 [submodule "front-end/bloco-12-ciclo-de-vida-e-react-router/dia-02-react-router/comprehension-exercises-router"]
 	path = front-end/bloco-12-ciclo-de-vida-e-react-router/dia-02-react-router/comprehension-exercises-router
-	url = git@github.com:lucasdvilar/exercise-dog-image.git
+	url = git@github.com:lucasdvilar/comprehension-exercises-router.git
