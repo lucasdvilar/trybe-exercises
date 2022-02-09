@@ -16,3 +16,6 @@
 [submodule "front-end/bloco-12-ciclo-de-vida-e-react-router/dia-01-ciclo-de-vida-de-componentes/exercise-dog-image"]
 	path = front-end/bloco-12-ciclo-de-vida-e-react-router/dia-01-ciclo-de-vida-de-componentes/exercise-dog-image
 	url = git@github.com:lucasdvilar/exercise-dog-image.git
+[submodule "front-end/bloco-12-ciclo-de-vida-e-react-router/dia-02-react-router/comprehension-exercises-router"]
+	path = front-end/bloco-12-ciclo-de-vida-e-react-router/dia-02-react-router/comprehension-exercises-router
+	url = git@github.com:lucasdvilar/exercise-dog-image.git
