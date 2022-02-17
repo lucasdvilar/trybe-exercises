@@ -19,6 +19,6 @@
 [submodule "front-end/bloco-12-ciclo-de-vida-e-react-router/dia-02-react-router/comprehension-exercises-router"]
 	path = front-end/bloco-12-ciclo-de-vida-e-react-router/dia-02-react-router/comprehension-exercises-router
 	url = git@github.com:lucasdvilar/comprehension-exercises-router.git
-[submodule "front-end/bloco-14-testes-com-rtl/dia-01-rtl-primeiros-passos/front-end/bloco-14-testes-com-rtl/dia-01-rtl-primeiros-passos/exercise-todo-list"]
-	path = front-end/bloco-14-testes-com-rtl/dia-01-rtl-primeiros-passos/front-end/bloco-14-testes-com-rtl/dia-01-rtl-primeiros-passos/exercise-todo-list
+[submodule "front-end/bloco-14-testes-com-rtl/dia-01-rtl-primeiros-passos/exercise-todo-list"]
+	path = front-end/bloco-14-testes-com-rtl/dia-01-rtl-primeiros-passos/exercise-todo-list
 	url = git@github.com:lucasdvilar/exercise-todo-list.git
