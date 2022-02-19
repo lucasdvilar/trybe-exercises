@@ -22,3 +22,6 @@
 [submodule "front-end/bloco-14-testes-com-rtl/dia-01-rtl-primeiros-passos/exercise-todo-list"]
 	path = front-end/bloco-14-testes-com-rtl/dia-01-rtl-primeiros-passos/exercise-todo-list
 	url = git@github.com:lucasdvilar/exercise-todo-list.git
+[submodule "front-end/bloco-14-testes-com-rtl/dia-02-rtl-mocks-e-inputs/front-end/bloco-14-testes-com-rtl/dia-02-rtl-mocks-e-inputs"]
+	path = front-end/bloco-14-testes-com-rtl/dia-02-rtl-mocks-e-inputs/front-end/bloco-14-testes-com-rtl/dia-02-rtl-mocks-e-inputs
+	url = git@github.com:lucasdvilar/exercise-digimon-finders.git
