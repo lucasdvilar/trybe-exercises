@@ -28,3 +28,6 @@
 [submodule "front-end/bloco-15-gerenciamento-de-estado-com-redux/dia-02-redux-no-react/exercises-redux-step-by-step"]
 	path = front-end/bloco-15-gerenciamento-de-estado-com-redux/dia-02-redux-no-react/exercises-redux-step-by-step
 	url = git@github.com:lucasdvilar/exercises-redux-step-by-step.git
+[submodule "front-end/bloco-15-gerenciamento-de-estado-com-redux/dia-02-redux-no-react/exercise-react-with-redux-intro"]
+	path = front-end/bloco-15-gerenciamento-de-estado-com-redux/dia-02-redux-no-react/exercise-react-with-redux-intro
+	url = git@github.com:lucasdvilar/exercise-react-with-redux-intro.git
