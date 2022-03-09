@@ -31,3 +31,6 @@
 [submodule "front-end/bloco-15-gerenciamento-de-estado-com-redux/dia-02-redux-no-react/exercise-react-with-redux-intro"]
 	path = front-end/bloco-15-gerenciamento-de-estado-com-redux/dia-02-redux-no-react/exercise-react-with-redux-intro
 	url = git@github.com:lucasdvilar/exercise-react-with-redux-intro.git
+[submodule "front-end/bloco-15-gerenciamento-de-estado-com-redux/dia-03-redux-no-react-pratica/front-end/bloco-15-gerenciamento-de-estado-com-redux/dia-03-redux-no-react-pratica/exercise-forms-redux"]
+	path = front-end/bloco-15-gerenciamento-de-estado-com-redux/dia-03-redux-no-react-pratica/front-end/bloco-15-gerenciamento-de-estado-com-redux/dia-03-redux-no-react-pratica/exercise-forms-redux
+	url = git@github.com:lucasdvilar/exercise-forms-redux.git
