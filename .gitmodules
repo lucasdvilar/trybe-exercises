@@ -34,3 +34,9 @@
 [submodule "front-end/bloco-15-gerenciamento-de-estado-com-redux/dia-03-redux-no-react-pratica/exercise-forms-redux"]
 	path = front-end/bloco-15-gerenciamento-de-estado-com-redux/dia-03-redux-no-react-pratica/exercise-forms-redux
 	url = git@github.com:lucasdvilar/exercise-forms-redux.git
+[submodule "front-end/bloco-15-gerenciamento-de-estado-com-redux/dia-04-redux-no-react-actions-assincronas/exercise-redux-thunk"]
+	path = front-end/bloco-15-gerenciamento-de-estado-com-redux/dia-04-redux-no-react-actions-assincronas/exercise-redux-thunk
+	url = git@github.com:lucasdvilar/exercise-redux-thunk.git
+[submodule "front-end/bloco-15-gerenciamento-de-estado-com-redux/dia-04-redux-no-react-actions-assincronas/exercise-game-of-thrones-characters"]
+	path = front-end/bloco-15-gerenciamento-de-estado-com-redux/dia-04-redux-no-react-actions-assincronas/exercise-game-of-thrones-characters
+	url = git@github.com:lucasdvilar/exercise-game-of-thrones-characters.git
