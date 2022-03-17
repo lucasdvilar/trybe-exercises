@@ -40,3 +40,6 @@
 [submodule "front-end/bloco-15-gerenciamento-de-estado-com-redux/dia-04-redux-no-react-actions-assincronas/exercise-game-of-thrones-characters"]
 	path = front-end/bloco-15-gerenciamento-de-estado-com-redux/dia-04-redux-no-react-actions-assincronas/exercise-game-of-thrones-characters
 	url = git@github.com:lucasdvilar/exercise-game-of-thrones-characters.git
+[submodule "front-end/bloco-17-context-api-e-react-hooks/dia-01-context-api-do-react/exercise-contextAPI-refactoring"]
+	path = front-end/bloco-17-context-api-e-react-hooks/dia-01-context-api-do-react/exercise-contextAPI-refactoring
+	url = git@github.com:lucasdvilar/exercise-contextAPI-refactoring.git
