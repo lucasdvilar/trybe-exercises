@@ -43,3 +43,9 @@
 [submodule "front-end/bloco-17-context-api-e-react-hooks/dia-01-context-api-do-react/exercise-contextAPI-refactoring"]
 	path = front-end/bloco-17-context-api-e-react-hooks/dia-01-context-api-do-react/exercise-contextAPI-refactoring
 	url = git@github.com:lucasdvilar/exercise-contextAPI-refactoring.git
+[submodule "front-end/bloco-17-context-api-e-react-hooks/dia-02-react-hooks-useState-e-useContext/exercise-react-hooks-refactoring"]
+	path = front-end/bloco-17-context-api-e-react-hooks/dia-02-react-hooks-useState-e-useContext/exercise-react-hooks-refactoring
+	url = git@github.com:lucasdvilar/exercise-react-hooks-refactoring.git
+[submodule "front-end/bloco-17-context-api-e-react-hooks/dia-02-react-hooks-useState-e-useContext/exercise-tryfood"]
+	path = front-end/bloco-17-context-api-e-react-hooks/dia-02-react-hooks-useState-e-useContext/exercise-tryfood
+	url = git@github.com:lucasdvilar/exercise-tryfood.git
