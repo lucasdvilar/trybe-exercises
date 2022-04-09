@@ -77,7 +77,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 9-3: _Jest - Testes Assíncronos_
 - [X] 9-4: _[Projeto - Carrinho de Compras]()_
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end :white_check_mark:
 
 ##### Bloco 10: Introdução - React
 
@@ -115,8 +115,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 15-2: _Usando Redux no React_
 - [X] 15-3: _Usando Redux no React - Prática_
 - [X] 15-4: _Usando Redux no React - Actions Assíncronas_
-- [ ] 15-5: _Testes em React-Redux_
-- [X] 15-6: _[Projeto - Trybe Wallet]()_
+- [X] 15-5: _Testes em React-Redux_
+- [X] 15-6: _Projeto - Trybe Wallet_
 
 ##### Bloco 16: Projeto Jogo de Trivia
 
@@ -127,21 +127,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 17-1: _Context API do React_
 - [X] 17-2: _React Hooks - useState e useContext_
 - [X] 17-3: _React Hooks - useEffect e Hooks customizados_
-- [ ] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [X] 17-4: _Projeto - StarWars Datatable com Context API e Hooks_
 
 ##### Bloco 18: Projeto Final de Front-end
 
-- [ ] 18-1: _Projeto - App de Receitas_
+- [X] 18-1: _[Projeto - App de Receitas]()_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-##### Bloco 20: IntroduÃ§Ã£o - Bancos de dados relacionais
+##### Bloco 19: Docker: Utilizando Containers
 
-- [ ] 20-1: _Banco de dados SQL_
-- [ ] 20-2: _Encontrando dados em um banco de dados_
-- [ ] 20-3: _Filtrando dados de forma especÃ­fica_
-- [ ] 20-4: _Manipulando tabelas_
-- [ ] 20-5: _[Projeto - All For One]()_
+- [ ] 19-1: _Introdução - Back-end e Utilizando containers com Docker_
+- [ ] 19-2: _Manipulação e criação de imagens no Docker_
+- [ ] 19-3: _Orquestrando containers com Docker Compose_
+- [ ] 19-4: _[Projeto - Docker To Do List]()_
 
 ##### Bloco 21: Bancos de dados relacionais
 
