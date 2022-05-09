@@ -75,7 +75,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 9-1: _JavaScript Assíncrono e Callbacks_
 - [X] 9-2: _JavaScript Assíncrono - Fetch API e async/await_
 - [X] 9-3: _Jest - Testes Assíncronos_
-- [X] 9-4: _[Projeto - Carrinho de Compras]()_
+- [X] 9-4: _Projeto - Carrinho de Compras_
 
 ## Desenvolvimento Front-end :white_check_mark:
 
@@ -102,14 +102,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 13-1: _Metodologias Ágeis_
 - [X] 13-2: _Projeto - Frontend Online Store_
 
-##### Bloco 14: Testes automatizados com React Testing Library
+##### Bloco 14: Testes Automatizados com React Testing Library
 
 - [X] 14-1: _RTL - Primeiros passos_
 - [X] 14-2: _RTL - Mocks e Inputs_
 - [X] 14-3: _RTL - Testando React Router_
 - [X] 14-4: _Projeto - Testes em React_
 
-##### Bloco 15: Gerenciamento de estado com Redux
+##### Bloco 15: Gerenciamento de Estado com Redux
 
 - [X] 15-1: _Introdução ao Redux - O estado global da aplicação_
 - [X] 15-2: _Usando Redux no React_
@@ -140,28 +140,31 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 19-1: _Introdução - Back-end e Utilizando containers com Docker_
 - [X] 19-2: _Manipulação e criação de imagens no Docker_
 - [X] 19-3: _Orquestrando containers com Docker Compose_
-- [X] 19-4: _[Projeto - Docker To Do List]()_
+- [X] 19-4: _Projeto - Docker To Do List_
 
 ##### Bloco 20: Introdução SQL
 
-- [ ] 20-1: _Banco de dados SQL_
-- [ ] 20-2: _Encontrando dados em um banco de dados_
-- [ ] 20-3: _Filtrando dados de forma específica_
-- [ ] 20-4: _Manipulando tabelas_
-- [ ] 20-5: _[Projeto - All For One]()_
+- [X] 20-1: _Banco de dados SQL_
+- [X] 20-2: _Encontrando dados em um banco de dados_
+- [X] 20-3: _Filtrando dados de forma específica_
+- [X] 20-4: _Manipulando tabelas_
+- [X] 20-5: _Projeto - All For One_
 
-##### Bloco 22: Bancos de dados relacionais
+##### Bloco 21: Funções SQL, JOINs e Normalização
 
-- [ ] 22-1: _Transformando ideias em um modelo de banco de dados_
-- [ ] 22-2: _NormalizaÃ§Ã£o, Formas Normais e Dumps_
-- [ ] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
-- [ ] 22-3: _[Projeto - One For All]()_
+- [X] 21-1: _Funções mais usadas no SQL_
+- [X] 21-2: _Descomplicando JOINs_
+- [X] 21-3: _Transformando ideias em um modelo de banco de dados_
+- [ ] 21-4: _[Projeto - One For All]()_
 
-##### Bloco 23: IntroduÃ§Ã£o - NoSQL
+##### Bloco 22: Introdução ao desenvolvimento Web com Node.js
 
-- [ ] 23-1: _MongoDB - IntroduÃ§Ã£o_
-- [ ] 23-2: _Filter Operators_
-- [ ] 23-3: _[Projeto - Data Flights]()_
+- [ ] 22-1: _Node.js - Um Motor JavaScript_
+- [ ] 22-2: _Node.js - Fluxo assíncrono_
+- [ ] 22-3: _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
+- [ ] 22-4: _Express - HTTP com Node.js_
+- [ ] 22-5: _Express - Middlewares_
+- [ ] 22-6: _Projeto - Talker Manager_
 
 ##### Bloco 24: Updates
 
