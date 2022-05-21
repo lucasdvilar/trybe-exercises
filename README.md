@@ -163,15 +163,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 22-2: _Node.js - Fluxo assíncrono_
 - [X] 22-3: _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
 - [X] 22-4: _Express - HTTP com Node.js_
-- [ ] 22-5: _Express - Middlewares_
+- [X] 22-5: _Express - Middlewares_
 - [ ] 22-6: _Projeto - Talker Manager_
 
-##### Bloco 24: Updates
+##### Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
 
-- [ ] 24-1: _Updates Simples_
-- [ ] 24-2: _Updates Complexos - Arrays - Parte 1_
-- [ ] 24-3: _Updates Complexos - Arrays - Parte 2_
-- [ ] 24-4: _[Projeto - Commerce]()_
+- [ ] 23-1: _Introdução e Arquitetura de Software - Camada de Model_
+- [ ] 23-2: _Arquitetura de Software - Camada de Controller e Service_
+- [ ] 23-3: _Arquitetura Web - Rest e Restful_
+- [ ] 23-4: _Arquitetura de Software - Testando Camadas_
+- [ ] 23-5: _Projeto - Store Manager_
 
 ##### Bloco 25: Aggregation Framework
 
