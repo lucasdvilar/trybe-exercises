@@ -155,7 +155,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 21-1: _Funções mais usadas no SQL_
 - [X] 21-2: _Descomplicando JOINs_
 - [X] 21-3: _Transformando ideias em um modelo de banco de dados_
-- [X] 21-4: _[Projeto - One For All]()_
+- [X] 21-4: _[Projeto - One For All](https://github.com/lucasdvilar/mysql-one-for-all)_
 
 ##### Bloco 22: Introdução ao desenvolvimento Web com Node.js
 
