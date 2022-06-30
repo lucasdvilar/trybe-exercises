@@ -49,3 +49,6 @@
 [submodule "front-end/bloco-17-context-api-e-react-hooks/dia-02-react-hooks-useState-e-useContext/exercise-tryfood"]
 	path = front-end/bloco-17-context-api-e-react-hooks/dia-02-react-hooks-useState-e-useContext/exercise-tryfood
 	url = git@github.com:lucasdvilar/exercise-tryfood.git
+[submodule "back-end/bloco-24-nodejs-orm-e-autenticacao/dia-02-orm-associations/exercise-sequelize-associations"]
+	path = back-end/bloco-24-nodejs-orm-e-autenticacao/dia-02-orm-associations/exercise-sequelize-associations
+	url = git@github.com:lucasdvilar/exercise-sequelize-associations.git
