@@ -180,14 +180,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 24-2: _ORM - Associations_
 - [X] 24-3: _JWT (JSON Web Token)_
 - [ ] 24-4: _Testando APIs com Testes de Integração_
-- [ ] 24-5: _Projeto - API de Blogs_
+- [X] 24-5: _Projeto - API de Blogs_
 
-##### Bloco 26: Intro - NodeJS
+##### Bloco 25: Deployment
 
-- [ ] 26-1: _NodeJS - IntroduÃ§Ã£o_
-- [ ] 26-2: _NodeJS - Fluxo AssÃ­ncrono_
-- [ ] 26-3: _NodeJS - Arquitetura_
-- [ ] 26-4: _[Projeto - A CLI of Ice and Fire]()_
+- [ ] 25-1: _Introdução e Infraestrutura - Deploy com Heroku_
+- [ ] 25-2: _Deploy Docker & Heroku_
+- [ ] 25-3: _Projeto - Stranger Things_
 
 ##### Bloco 27: NodeJS
 
