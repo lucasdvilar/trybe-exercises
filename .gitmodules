@@ -52,3 +52,6 @@
 [submodule "back-end/bloco-24-nodejs-orm-e-autenticacao/dia-02-orm-associations/exercise-sequelize-associations"]
 	path = back-end/bloco-24-nodejs-orm-e-autenticacao/dia-02-orm-associations/exercise-sequelize-associations
 	url = git@github.com:lucasdvilar/exercise-sequelize-associations.git
+[submodule "back-end/bloco-25-deployment/dia-01-infra-deploy-com-heroku/exercise"]
+	path = back-end/bloco-25-deployment/dia-01-infra-deploy-com-heroku/exercise
+	url = git@github.com:lucasdvilar/deploy-exercise.git
