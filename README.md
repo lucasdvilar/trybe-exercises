@@ -131,7 +131,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 18: Projeto Final de Front-end
 
-- [X] 18-1: _[Projeto - App de Receitas]()_
+- [X] 18-1: _Projeto - App de Receitas_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
@@ -172,7 +172,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 23-2: _Arquitetura de Software - Camada de Controller e Service_
 - [X] 23-3: _Arquitetura Web - Rest e Restful_
 - [X] 23-4: _Arquitetura de Software - Testando Camadas_
-- [X] 23-5: _[Projeto - Store Manager]()_
+- [X] 23-5: _[Projeto - Store Manager](https://github.com/lucasdvilar/store-manager)_
 
 ##### Bloco 24: Node.js: ORM e Autenticação
 
