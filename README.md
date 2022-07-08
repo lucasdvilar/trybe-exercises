@@ -164,7 +164,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 22-3: _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
 - [X] 22-4: _Express - HTTP com Node.js_
 - [X] 22-5: _Express - Middlewares_
-- [X] 22-6: _[Projeto - Talker Manager]()_
+- [X] 22-6: _[Projeto - Talker Manager](https://github.com/lucasdvilar/mysql-one-for-all)_
 
 ##### Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
 
@@ -185,20 +185,24 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 25: Deployment
 
 - [X] 25-1: _Introdução e Infraestrutura - Deploy com Heroku_
-- [ ] 25-2: _Deploy Docker & Heroku_
-- [ ] 25-3: _Projeto - Stranger Things_
+- [X] 25-2: _Deploy Docker & Heroku_
+- [X] 25-3: _Projeto - Stranger Things_
 
-##### Bloco 27: NodeJS
+##### Bloco 26: TypeScript
 
-- [ ] 27-1: _Express: HTTP com Node.js_
-- [ ] 27-2: _Arquitetura de Software - IntroduÃ§Ã£o ao MVC_
-- [ ] 27-3: _[Projeto - Cookmaster]()_
+- [ ] 26-1: _Introdução - TypeScript_
+- [ ] 26-2: _Tipagem Estática e Generics_
+- [ ] 26-3: _Express com TypeScript_
+- [ ] 26-4: _[Projeto - Trybe Smith]()_
 
-##### Bloco 28: NodeJS
+##### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
 
-- [ ] 28-1: _Arquitetura de Software - Camada de ServiÃ§o_
-- [ ] 28-2: _Arquitetura web - Rest e Restful_
-- [ ] 28-3: _[Projeto - Store Manager]()_
+- [ ] 27-1: _Introdução à Orientação a Objetos_
+- [ ] 27-2: _Heranças e Interfaces_
+- [ ] 27-3: _Polimorfismo_
+- [ ] 27-4: _SOLID - Introdução e Princípios S, O e D_
+- [ ] 27-5: _SOLID - Princípios L e I_
+- [ ] 27-6: _[Projeto - Trybers and Dragons]()_
 
 ##### Bloco 29: NodeJS
 
