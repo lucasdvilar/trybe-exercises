@@ -164,7 +164,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 22-3: _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
 - [X] 22-4: _Express - HTTP com Node.js_
 - [X] 22-5: _Express - Middlewares_
-- [X] 22-6: _[Projeto - Talker Manager](https://github.com/lucasdvilar/mysql-one-for-all)_
+- [X] 22-6: _[Projeto - Talker Manager](https://github.com/lucasdvilar/talker-manager)_
 
 ##### Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
 
@@ -193,7 +193,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 26-1: _Introdução - TypeScript_
 - [X] 26-2: _Tipagem Estática e Generics_
 - [X] 26-3: _Express com TypeScript_
-- [ ] 26-4: _[Projeto - Trybe Smith]()_
+- [X] 26-4: _[Projeto - Trybe Smith](https://github.com/lucasdvilar/trybesmith)_
 
 ##### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
 
@@ -204,11 +204,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 27-5: _SOLID - Princípios L e I_
 - [ ] 27-6: _[Projeto - Trybers and Dragons]()_
 
-##### Bloco 29: NodeJS
+##### Bloco 28: Projeto - TFC (Trybe Futebol Clube)
 
-- [ ] 29-1: _NodeJS - JWT - (JSON Web Token)_
-- [ ] 29-2: _NodeJS - Upload de arquivos com Multer_
-- [ ] 29-3: _[Projeto - Cookmaster V2]()_
+- [ ] 28-1: _[Projeto - TFC (Trybe Futebol Clube)]()_
+
+# UPDATING...
 
 ##### Bloco 30: IntroduÃ§Ã£o - Deploy
 
