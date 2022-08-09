@@ -202,11 +202,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 27-3: _Polimorfismo_
 - [X] 27-4: _SOLID - Introdução e Princípios S, O e D_
 - [X] 27-5: _SOLID - Princípios L e I_
-- [ ] 27-6: _[Projeto - Trybers and Dragons]()_
+- [X] 27-6: _Projeto - Trybers and Dragons_
 
 ##### Bloco 28: Projeto - TFC (Trybe Futebol Clube)
 
-- [ ] 28-1: _[Projeto - TFC (Trybe Futebol Clube)]()_
+- [X] 28-1: _Projeto - TFC (Trybe Futebol Clube)_
 
 ##### Bloco 29: Introdução ao MongoDB
 
@@ -217,31 +217,24 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 29-5: _Updates Complexos - Arrays_
 - [ ] 29-6: _[Projeto - Commerce]()_
 
+##### Bloco 30: MongoDB com Node.js e POO
+
+- [ ] 30-1: _Mongoose e arquitetura MSC (camada Model)_
+- [ ] 30-2: _Mongoose e arquitetura MSC (camadas Service e Controller)_
+- [ ] 30-3: _[Projeto - Car Shop]()_
+
+##### Bloco 31: Projeto - App de Delivery
+
+- [ ] 31-1: _[Projeto - App de Delivery]()_
+
+##### Bloco 32: MasterClass - VPS, CI/CD
+
+- [ ] 32-1: _Dia 1 - VPS_
+- [ ] 32-2: _Dia 2_
+
+## Ciência da Computação :hourglass_flowing_sand:
+
 # UPDATING...
-
-##### Bloco 31: Projeto
-
-- [ ] 31-1: _[Projeto - Trybeer]()_
-
-##### Bloco 32: Arquitetura de Software
-
-- [ ] 32-1: _Arquitetura - PrincÃ­pios SOLID_
-- [ ] 32-2: _ORM - Interface da aplicaÃ§Ã£o com o banco de dados_
-- [ ] 32-3: _Arquitetura de Software - DDD_
-- [ ] 32-4: _Boas prÃ¡ticas na escrita de testes_
-- [ ] 32-3: _[Projeto - API de Blogs]()_
-
-##### Bloco 33: Sockets
-
-- [ ] 30-1: _Sockets - TCP/UDP & NET_
-- [ ] 30-2: _Sockets - Socket.io_
-- [ ] 30-3: _[Projeto - Webchat]()_
-
-##### Bloco 34: Projeto
-
-- [ ] 34-1: _[Projeto - Trybeer V2]()_
-
-## CiÃªncia da ComputaÃ§Ã£o :hourglass_flowing_sand:
 
 ##### Bloco 35: IntroduÃ§Ã£o - CiÃªncia da ComputaÃ§Ã£o
 
