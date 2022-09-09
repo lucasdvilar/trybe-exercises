@@ -219,9 +219,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 30: MongoDB com Node.js e POO
 
-- [X] 30-1: _Mongoose e arquitetura MSC (camada Model)_
-- [X] 30-2: _Mongoose e arquitetura MSC (camadas Service e Controller)_
-- [X] 30-3: _[Projeto - Car Shop]()_
+- [X] 30-1: _Mongoose e Arquitetura MSC (camada Model)_
+- [X] 30-2: _Mongoose e Arquitetura MSC (camadas Service e Controller)_
+- [X] 30-3: _[Projeto - Car Shop](https://github.com/lucasdvilar/car-shop)_
 
 ##### Bloco 31: Projeto - App de Delivery
 
@@ -229,26 +229,49 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 32: MasterClass - VPS, CI/CD
 
-- [ ] 32-1: _Dia 1 - VPS_
+- [X] 32-1: _Dia 1_
 - [ ] 32-2: _Dia 2_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
-# UPDATING...
+##### Bloco 33: Introdução Python
 
-##### Bloco 35: IntroduÃ§Ã£o - CiÃªncia da ComputaÃ§Ã£o
+- [ ] 33-1: _Introdução - Ciência da Computação e Python_
+- [ ] 33-2: _Entrada e Saída de Dados_
+- [ ] 33-3: _Testes_
+- [ ] 33-4: _[Projeto - Job Insights]()_
 
-- [ ] 35-1: _Arquitetura de Computadores_
-- [ ] 35-2: _Arquitetura de redes_
-- [ ] 35-3: _Redes de computadores, ferramentas e seguranÃ§a_
-- [ ] 35-4: _[Projeto - Explorando os protocolos]()_
+##### Bloco 34: Padrões de Projeto
 
-##### Bloco 36: Python
+- [ ] 34-1: _POO em Python_
+- [ ] 34-2: _Padrões - Iterator, Adapter, Strategy_
+- [ ] 34-3: _Padrões - Decorator, Observer, Factory_
+- [ ] 34-4: _[Projeto - Relatórios de Estoque]()_
 
-- [ ] 35-1: _Aprendendo Python_
-- [ ] 35-2: _Testes e ExceÃ§Ãµes_
-- [ ] 35-3: _Entrada e SaÃ­da de dados_
-- [ ] 36-4: _Entrada e SaÃ­da de dados_
-- [ ] 35-5: _[Projeto - Tech news]()_
+##### Bloco 35: Redes e Raspagem de Dados
 
-# [...]
+- [ ] 35-1: _Arquitetura de Redes, Ferramentas e Segurança_
+- [ ] 35-2: _Raspagem de Dados_
+- [ ] 35-3: _Outras Ferramentas de Raspagem de Dados_
+- [ ] 35-4: _[Projeto - Tech News]()_
+
+##### Bloco 36: Algoritmos
+
+- [ ] 36-1: _Complexidade de Algoritmos_
+- [ ] 36-2: _Recursividade e Estratégias para Soluções de Problemas_
+- [ ] 36-3: _Algoritmos de Ordenação e Busca_
+- [ ] 36-4: _[Projeto - Algoritmos]()_
+
+##### Bloco 37: Estrutura de Dados I
+
+- [ ] 37-1: _Arquitetura de Computadores_
+- [ ] 37-2: _Arrays_
+- [ ] 37-3: _Nó e Listas Encadeadas_
+- [ ] 37-4: _Pilhas e Filas_
+- [ ] 37-5: _[Projeto - TING - Trybe Is Not Google]()_
+
+##### Bloco 38: Estruturas de Dados II
+
+- [ ] 38-1: _Hashmap e Dict_
+- [ ] 38-2: _Set_
+- [ ] 38-3: _[Projeto - Restaurant Orders]()_
